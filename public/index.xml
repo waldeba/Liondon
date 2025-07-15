@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Hugo Site</title>
+    <link>//localhost:55074/</link>
+    <description>Recent content on My Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:55074/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page</title>
+      <link>//localhost:55074/test/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/test/</guid>
+      <description>&lt;p&gt;This is a test content file to check if the single.html template is used.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>_DSC1285</title>
+      <link>//localhost:55074/photos/_dsc1285/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/_dsc1285/</guid>
+      <description>&lt;p&gt;Petals and morning dew.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>_DSC1307</title>
+      <link>//localhost:55074/photos/_dsc1307/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/_dsc1307/</guid>
+      <description>&lt;p&gt;Leaves cover the ground.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-906 11.14.18 PM</title>
+      <link>//localhost:55074/photos/003-906-11-14-18-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-906-11-14-18-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-915</title>
+      <link>//localhost:55074/photos/003-915/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-915/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-929 11.14.19 PM</title>
+      <link>//localhost:55074/photos/003-929-11-14-19-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-929-11-14-19-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-970 11.14.20 PM</title>
+      <link>//localhost:55074/photos/003-970-11-14-20-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-970-11-14-20-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-982 11.14.20 PM</title>
+      <link>//localhost:55074/photos/003-982-11-14-20-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-982-11-14-20-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>003-983 11.14.20 PM</title>
+      <link>//localhost:55074/photos/003-983-11-14-20-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-983-11-14-20-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-003 11.14.20 PM</title>
+      <link>//localhost:55074/photos/004-003-11-14-20-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-003-11-14-20-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-016 11.14.20 PM</title>
+      <link>//localhost:55074/photos/004-016-11-14-20-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-016-11-14-20-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-086 11.14.22 PM</title>
+      <link>//localhost:55074/photos/003-086-11-14-22-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/003-086-11-14-22-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-086 11.14.22 PM</title>
+      <link>//localhost:55074/photos/004-086-11-14-22-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-086-11-14-22-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-120 11.14.22 PM</title>
+      <link>//localhost:55074/photos/004-120-11-14-22-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-120-11-14-22-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-138 11.14.23 PM</title>
+      <link>//localhost:55074/photos/004-138-11-14-23-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-138-11-14-23-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-148 11.14.23 PM</title>
+      <link>//localhost:55074/photos/004-148-11-14-23-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-148-11-14-23-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-180 11.14.23 PM</title>
+      <link>//localhost:55074/photos/004-180-11-14-23-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-180-11-14-23-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-184</title>
+      <link>//localhost:55074/photos/004-184/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-184/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-198 11.14.24 PM</title>
+      <link>//localhost:55074/photos/004-198-11-14-24-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-198-11-14-24-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-231 11.14.24 PM</title>
+      <link>//localhost:55074/photos/004-231-11-14-24-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-231-11-14-24-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-232 11.14.24 PM</title>
+      <link>//localhost:55074/photos/004-232-11-14-24-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-232-11-14-24-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-234 11.14.24 PM</title>
+      <link>//localhost:55074/photos/004-234-11-14-24-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-234-11-14-24-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-264 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-264-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-264-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-271 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-271-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-271-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-272 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-272-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-272-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-273 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-273-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-273-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-282 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-282-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-282-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-283 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-283-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-283-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-299 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-299-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-299-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-302 11.14.25 PM</title>
+      <link>//localhost:55074/photos/004-302-11-14-25-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-302-11-14-25-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-324 11.14.26 PM</title>
+      <link>//localhost:55074/photos/004-324-11-14-26-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-324-11-14-26-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-352 11.14.26 PM</title>
+      <link>//localhost:55074/photos/004-352-11-14-26-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-352-11-14-26-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-378 11.14.27 PM</title>
+      <link>//localhost:55074/photos/004-378-11-14-27-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-378-11-14-27-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-380 11.14.27 PM</title>
+      <link>//localhost:55074/photos/004-380-11-14-27-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-380-11-14-27-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-406 11.14.27 PM</title>
+      <link>//localhost:55074/photos/004-406-11-14-27-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-406-11-14-27-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-427 11.14.27 PM</title>
+      <link>//localhost:55074/photos/004-427-11-14-27-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-427-11-14-27-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-428 11.14.27 PM</title>
+      <link>//localhost:55074/photos/004-428-11-14-27-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-428-11-14-27-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-439 11.14.28 PM</title>
+      <link>//localhost:55074/photos/004-439-11-14-28-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-439-11-14-28-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-456 11.14.28 PM</title>
+      <link>//localhost:55074/photos/004-456-11-14-28-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-456-11-14-28-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-468 11.14.28 PM</title>
+      <link>//localhost:55074/photos/004-468-11-14-28-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-468-11-14-28-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-470 11.14.28 PM</title>
+      <link>//localhost:55074/photos/004-470-11-14-28-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-470-11-14-28-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-484 11.14.28 PM</title>
+      <link>//localhost:55074/photos/004-484-11-14-28-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-484-11-14-28-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-500 11.14.29 PM</title>
+      <link>//localhost:55074/photos/004-500-11-14-29-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-500-11-14-29-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-539 11.14.29 PM</title>
+      <link>//localhost:55074/photos/004-539-11-14-29-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-539-11-14-29-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-552 11.14.29 PM</title>
+      <link>//localhost:55074/photos/004-552-11-14-29-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-552-11-14-29-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-554 11.14.29 PM</title>
+      <link>//localhost:55074/photos/004-554-11-14-29-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-554-11-14-29-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-567 11.14.30 PM</title>
+      <link>//localhost:55074/photos/004-567-11-14-30-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-567-11-14-30-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-580 11.14.30 PM</title>
+      <link>//localhost:55074/photos/004-580-11-14-30-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-580-11-14-30-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-582 11.14.30 PM</title>
+      <link>//localhost:55074/photos/004-582-11-14-30-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-582-11-14-30-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-598 11.14.30 PM</title>
+      <link>//localhost:55074/photos/004-598-11-14-30-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-598-11-14-30-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>004-605 11.14.30 PM</title>
+      <link>//localhost:55074/photos/004-605-11-14-30-pm/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/004-605-11-14-30-pm/</guid>
+      <description>&lt;p&gt;A moment captured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0416</title>
+      <link>//localhost:55074/photos/dsc_0416/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0416/</guid>
+      <description>&lt;p&gt;Sunset over the hills.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0426</title>
+      <link>//localhost:55074/photos/dsc_0426/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0426/</guid>
+      <description>&lt;p&gt;Calm waters and clear skies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0545</title>
+      <link>//localhost:55074/photos/dsc_0545/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0545/</guid>
+      <description>&lt;p&gt;City lights begin to glow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0644</title>
+      <link>//localhost:55074/photos/dsc_0644/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0644/</guid>
+      <description>&lt;p&gt;Green leaves and tall trees.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0665</title>
+      <link>//localhost:55074/photos/dsc_0665/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0665/</guid>
+      <description>&lt;p&gt;Hiking the rocky trails.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0675 2</title>
+      <link>//localhost:55074/photos/dsc_0675_2/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0675_2/</guid>
+      <description>&lt;p&gt;Waves crashing on the shore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_0964</title>
+      <link>//localhost:55074/photos/dsc_0964/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_0964/</guid>
+      <description>&lt;p&gt;Vendors and colorful stalls.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_1128 2</title>
+      <link>//localhost:55074/photos/dsc_1128_2/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_1128_2/</guid>
+      <description>&lt;p&gt;Empty streets and soft light.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_1696</title>
+      <link>//localhost:55074/photos/dsc_1696/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_1696/</guid>
+      <description>&lt;p&gt;Colors of spring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_3547 2</title>
+      <link>//localhost:55074/photos/dsc_3547_2/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_3547_2/</guid>
+      <description>&lt;p&gt;Lights reflecting on the river.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_4244</title>
+      <link>//localhost:55074/photos/dsc_4244/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_4244/</guid>
+      <description>&lt;p&gt;Snow and blue skies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DSC_4906</title>
+      <link>//localhost:55074/photos/dsc_4906/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/dsc_4906/</guid>
+      <description>&lt;p&gt;Driving through the hills.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample Photo</title>
+      <link>//localhost:55074/photos/sample-photo/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:55074/photos/sample-photo/</guid>
+      <description>&lt;p&gt;This is a sample photo post. Replace the image with your own!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

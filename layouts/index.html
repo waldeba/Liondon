@@ -1,0 +1,78 @@
+{{ define "main" }}
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #fafafa; }
+    .gallery {
+      column-count: 4;
+      column-gap: 16px;
+      padding: 32px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      margin-bottom: 16px;
+      display: inline-block;
+      width: 100%;
+      break-inside: avoid;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px 8px 0 0;
+    }
+    .card-desc {
+      padding: 12px 16px;
+      font-size: 1em;
+      color: #444;
+      text-align: center;
+    }
+  </style>
+  <div class="gallery">
+    {{ range where .Site.RegularPages "Section" "photos" }}
+      <div class="card">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <div class="card-desc">{{ .Params.description }}</div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #fafafa; }
+    .gallery {
+      column-count: 4;
+      column-gap: 16px;
+      padding: 32px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      margin-bottom: 16px;
+      display: inline-block;
+      width: 100%;
+      break-inside: avoid;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px 8px 0 0;
+    }
+    .card-desc {
+      padding: 12px 16px;
+      font-size: 1em;
+      color: #444;
+      text-align: center;
+    }
+  </style>
+  <div class="gallery">
+    {{ range where .Site.RegularPages "Section" "photos" }}
+      <div class="card">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <div class="card-desc">{{ .Params.description }}</div>
+      </div>
+    {{ end }}
+  </div>
+
+</html>

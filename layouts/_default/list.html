@@ -1,0 +1,80 @@
+{{ define "main" }}
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #fafafa; }
+    .gallery {
+      column-count: 4;
+      column-gap: 16px;
+      padding: 32px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      margin-bottom: 16px;
+      display: inline-block;
+      width: 100%;
+      break-inside: avoid;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px 8px 0 0;
+    }
+    .card-desc {
+      padding: 12px 16px;
+      font-size: 1em;
+      color: #444;
+      text-align: center;
+    }
+    .load-more {
+      display: block;
+      margin: 32px auto;
+      padding: 12px 32px;
+      font-size: 1.1em;
+      background: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="gallery" id="gallery">
+    {{ range .Paginator.Pages }}
+      <div class="card">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <div class="card-desc">{{ .Params.description }}</div>
+      </div>
+    {{ end }}
+  </div>
+  {{ if .Paginator.HasNext }}
+    <button class="load-more" id="loadMore">Load More</button>
+  {{ end }}
+  <script>
+    let nextPage = parseInt("{{ .Paginator.PageNumber }}", 10) + 1;
+    const totalPages = parseInt("{{ .Paginator.TotalPages }}", 10);
+    const loadMoreBtn = document.getElementById('loadMore');
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', function() {
+        fetch(window.location.pathname + 'page/' + nextPage + '/')
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const newCards = doc.querySelectorAll('.gallery .card');
+            newCards.forEach(card => {
+              document.getElementById('gallery').appendChild(card);
+            });
+            nextPage++;
+            if (nextPage > totalPages) {
+              loadMoreBtn.style.display = 'none';
+            }
+          });
+      });
+    }
+  </script>
+</body>
+</html>
+{{ end }}
