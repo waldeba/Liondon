@@ -1,3 +1,35 @@
-baseURL = "/"
+baseURL = "/"  # This will be automatically set by Netlify
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "Liondon Photography"
+description = "A curated photography portfolio showcasing moments captured through the lens"
+
+# Pagination
+paginate = 6
+paginatePath = "page"
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Markup configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+
+# Image processing settings
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 85
+  anchor = "smart"
+
+# Site parameters
+[params]
+  description = "Professional photography portfolio"
+  author = "Liondon"
+  images = ["/images/og-image.jpg"]  # Default social sharing image
+  
+  # Social media links (optional)
+  # instagram = "your_instagram"
+  # twitter = "your_twitter"
